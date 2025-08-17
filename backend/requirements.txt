@@ -1,0 +1,7 @@
+Flask
+sqlalchemy
+werkzeug
+flask_jwt_extended
+tqdm
+flask_cors
+requests

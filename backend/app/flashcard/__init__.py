@@ -1,0 +1,1 @@
+from .endpoints import flashcard_bp

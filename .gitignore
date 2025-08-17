@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env/
+backend/data/raw_data
+.idea/
+*.log
+*.sqlite3
+.gradle
